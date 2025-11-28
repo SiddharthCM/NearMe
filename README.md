@@ -121,7 +121,15 @@ Saidapet is also home to the historic Kaaraneeswarar Temple, bustling markets, g
 ## OUTPUT
 ![alt text](<Screenshot 2025-11-28 110911.png>)
 
+![alt text](<Screenshot 2025-11-28 125137.png>)
 
+![alt text](<Screenshot 2025-11-28 125233.png>)
+
+![alt text](<Screenshot 2025-11-28 125331.png>)
+
+![alt text](<Screenshot 2025-11-28 125549.png>)
+
+![alt text](<Screenshot 2025-11-28 125630.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
